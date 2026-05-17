@@ -1,5 +1,5 @@
 👋 Hi, I'm Molaly Mekonen
-AI Solutions Architect · Semiconductor Engineer · Builder
+AI Solutions Architect · AI architecture · AI Builder
 ![AI & Automation](https://img.shields.io/badge/AI%20%26%20Automation-%237C6AF7?style=flat-square)
 ![React Native](https://img.shields.io/badge/React%20Native-%2361DAFB?style=flat-square&logo=react&logoColor=black)
 ![7 yrs Intel](https://img.shields.io/badge/7%20yrs%20Intel-%230071C5?style=flat-square&logo=intel&logoColor=white)
