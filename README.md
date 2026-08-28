@@ -30,6 +30,10 @@ These are client solutions, so parts of the implementation are not public.
 
 ## Public projects
 
+### [AI Solution Architect and PRD Generator](https://urael-fanuel.github.io/molaly-portfolio/#architect)
+
+A free public AI agent that interviews users about their business or project and turns the conversation into a detailed, implementation-ready PRD. It produces a tailored solution architecture, workflow, MVP roadmap, technology stack, cost estimate, ROI model, KPIs, security considerations, risks and a prototype prompt. Visitors can use it without charge and download the resulting PRD as a PDF.
+
 ### [Amharic Driving Theory App](https://github.com/Urael-Fanuel/driving-theory-app)
 
 A mobile learning product for Amharic-speaking users preparing for the Israeli driving theory exam. Built with React Native, Expo, Supabase, speech technologies and AI-assisted learning features.
