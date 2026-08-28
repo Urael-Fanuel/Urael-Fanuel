@@ -1,6 +1,6 @@
 # Hi, I'm Molaly Moti Mekonen
 
-### AI & Automation Specialist | AI Agents | n8n | APIs | Integrations
+### AI & Automation Specialist | AI Agents | n8n | Make | APIs | Integrations
 
 I turn existing business processes into reliable, measurable systems.
 
