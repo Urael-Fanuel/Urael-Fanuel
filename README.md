@@ -62,7 +62,7 @@ AI agents | n8n | Make | APIs | Webhooks | Supabase | Node.js | React Native | E
 
 - Seven years at Intel, 2018 to 2025
 - Experience with complex production processes and advanced semiconductor equipment
-- Successfully completed HackerU's professional program in AI implementation and automation for organizations
+- Successfully completed HackerU's professional program in AI implementation and automation for organizations in August 2026
 - Languages: Hebrew, English and Amharic
 
 ## Let's connect
