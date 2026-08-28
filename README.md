@@ -58,11 +58,11 @@ My portfolio of AI, automation and product projects, including the business prob
 
 AI agents | n8n | Make | APIs | Webhooks | Supabase | Node.js | React Native | Expo | Google Cloud AI | Claude API | Apify
 
-## Background
+## Experience & Professional Training
 
 - Seven years at Intel, 2018 to 2025
 - Experience with complex production processes and advanced semiconductor equipment
-- Completed professional studies in AI implementation and organizational automation
+- Successfully completed HackerU's professional program in AI implementation and automation for organizations
 - Languages: Hebrew, English and Amharic
 
 ## Let's connect
