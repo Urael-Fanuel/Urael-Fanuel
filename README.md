@@ -56,7 +56,7 @@ My portfolio of AI, automation and product projects, including the business prob
 
 ## Core toolkit
 
-AI agents | n8n | APIs | Webhooks | Supabase | Node.js | React Native | Expo | Google Cloud AI | Claude API | Apify
+AI agents | n8n | Make | APIs | Webhooks | Supabase | Node.js | React Native | Expo | Google Cloud AI | Claude API | Apify
 
 ## Background
 
